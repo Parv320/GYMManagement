@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Gestion du gymnase"</string>
+    <string name="newmember">Nouveau membre? Adhérer maintenant</string>
+    <string name="Fogot_Password">" Mot de passe oublié?"</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">" S'identifier"</string>
+    <string name="subtitle_activity_main">Rester en forme</string>
+    <string name="already_a_member">Déjà membre?</string>
+    <string name="login_btn">Connecte-toi maintenant</string>
+    <string name="reg_btn">S\'inscrire</string>
+    <string name="account_info">Information sur le compte</string>
+    <string name="profile_info">" Informations sur le profil"</string>
+</resources>
